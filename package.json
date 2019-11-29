@@ -1,0 +1,29 @@
+{
+	"name": "nativescript-bip39",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+ssh://git@github.com/KGodSin/nativescript-bip39.git"
+	},
+	"author": "kimhyuk",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/KGodSin/nativescript-bip39/issues"
+	},
+	"homepage": "https://github.com/KGodSin/nativescript-bip39#readme",
+	"keywords": [
+		"nativescript",
+		"nativescript-bip39",
+		"bip39"
+	],
+	"dependencies": {
+		"nativescript-toolbox": "^3.0.1",
+		"ts-node": "^8.5.4",
+		"typescript": "^3.7.2"
+	}
+}
